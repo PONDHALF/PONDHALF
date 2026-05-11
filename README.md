@@ -45,9 +45,7 @@ More projects available in my [repositories](https://github.com/PONDHALF?tab=rep
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PONDHALF&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PONDHALF&layout=compact&theme=radical)
+[![stats](https://github-readme-stats.vercel.app/api?username=PONDHALF)]
 
 ---
 
