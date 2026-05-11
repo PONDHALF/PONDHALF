@@ -39,13 +39,7 @@ I'm currently focused on developing projects that make a real impact. Whether it
 
 ## 📌 Featured Projects
 
-Check out some of my notable repositories:
-
-- **[Project Name](#)** - Brief description of what this project does
-- **[Another Project](#)** - What makes this project special
-- **[Contribution](#)** - Open-source work I'm proud of
-
-*More projects available in my [repositories](https://github.com/PONDHALF?tab=repositories)*
+More projects available in my [repositories](https://github.com/PONDHALF?tab=repositories)*
 
 ---
 
@@ -60,10 +54,6 @@ Check out some of my notable repositories:
 ## 🌐 Connect With Me
 
 - **GitHub:** [@PONDHALF](https://github.com/PONDHALF)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your Profile](#)
-- **Twitter/X:** [@YourHandle](#)
-- **Portfolio:** [yourwebsite.com](#)
 
 ---
 
